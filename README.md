@@ -11,5 +11,5 @@ I had nothing better to do but I also didn't want to do manual work.
 
 ## How to run the class availability script?
 - First import selenium and beautiful soup and make sure you have Firefox Geckodriver
-- You have manually link the class search URL in code since I don't know how ASU decides the code for different semesters.
+- You have manually link the class search URL in code since I don't know how UAB decides the code for different semesters.
 - You can customize the interval you want the code to run in (please don't run it too frequently)
